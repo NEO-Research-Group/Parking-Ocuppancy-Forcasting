@@ -1,4 +1,4 @@
-# Parking-Ocuppancy-Forcasting
+# Parking-Ocuppancy-Forecasting
 
 **About:** This repository provides the source code of the proposed parking forecasting pipline devised in the article `Time Series Forecasting for Parking Occupancy: Case Study of Malaga and Birmingham Cities`.
 
